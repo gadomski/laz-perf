@@ -1,7 +1,6 @@
 laz-perf for Debian
 -------------------
-This is a Debian package for https://github.com/verma/laz-perf,
-specifically created for use in PDAL's (http://pdal.io) Travis CI
-(https://travis-ci.org/PDAL/PDAL).
+This is a Debian package for https://github.com/verma/laz-perf, provided
+for users' convenience as a part of the PDAL PPA.
 
-This packaging is available at https://github.com/verma/tree/debian/precise.
+This packaging is available at https://github.com/verma/tree/debian/trusty.
